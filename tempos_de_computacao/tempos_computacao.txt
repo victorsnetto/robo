@@ -1,10 +1,12 @@
-TEMPOS DE COMPUTA«√O (em microsegundos)
+TEMPOS DE COMPUTA√á√ÉO (em microsegundos)
 
-COMPONENTE	|	TEMPO
+COMPONENTE	    |	TEMPO
 -------------------------------------
 Infravermelho 1	|	120
 Infravermelho 2	|	120
+HC-SR04         | 5000
 
 
 FONTES
 Infravermelhos: https://www.filipeflop.com/blog/sensor-de-chama-com-arduino/
+HC-SR04: https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/
