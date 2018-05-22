@@ -1,0 +1,10 @@
+TEMPOS DE COMPUTAÇÃO (em microsegundos)
+
+COMPONENTE	|	TEMPO
+-------------------------------------
+Infravermelho 1	|	120
+Infravermelho 2	|	120
+
+
+FONTES
+Infravermelhos: https://www.filipeflop.com/blog/sensor-de-chama-com-arduino/
