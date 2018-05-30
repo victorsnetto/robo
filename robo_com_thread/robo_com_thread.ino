@@ -6,10 +6,10 @@
 #define pino_trigger 4
 #define pino_echo 5
 
-const byte mda1=11; //Alocaçâo do primeiro bit do motor da esquerda no pino 11
-const byte mda2=6; //Alocaçâo do segundo bit do motor da esquerda no pino 10
-const byte mea1=10; //Alocaçâo do primeiro bit do motor de direita no pino 9 
-const byte mea2=8; //Alocaçâo do segundo bit do motor da direita no pino 8 
+const byte mda1=8; //Alocaçâo do primeiro bit do motor da esquerda no pino 8
+const byte mda2=9; //Alocaçâo do segundo bit do motor da esquerda no pino 9
+const byte mea1=10; //Alocaçâo do primeiro bit do motor de direita no pino 10 
+const byte mea2=11; //Alocaçâo do segundo bit do motor da direita no pino 11 
 
 boolean estadosbf;   //Declaração de uma variavel para receber a leitura do sbf
 boolean estadosbt;   //Declaração de uma variavel para receber a leitura do sbt
